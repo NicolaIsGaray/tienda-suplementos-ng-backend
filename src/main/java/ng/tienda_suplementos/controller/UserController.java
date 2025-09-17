@@ -1,7 +1,6 @@
 package ng.tienda_suplementos.controller;
 
 import ng.tienda_suplementos.exceptions.UserNotFound;
-import ng.tienda_suplementos.model.Product;
 import ng.tienda_suplementos.model.User;
 import ng.tienda_suplementos.service.user.UserService;
 import org.slf4j.Logger;

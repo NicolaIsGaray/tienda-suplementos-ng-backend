@@ -21,7 +21,7 @@ public class Product {
 
     private String name;
 
-    private String[] description;
+    private String description;
 
     private Integer stock;
 
@@ -35,7 +35,7 @@ public class Product {
 
     private String colour;
 
-    private String[] flavour;
+    private String flavour;
 
     private String size;
 

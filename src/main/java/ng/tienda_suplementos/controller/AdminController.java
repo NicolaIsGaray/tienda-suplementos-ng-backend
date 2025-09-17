@@ -13,6 +13,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 @RestController
+@RequestMapping("tienda-suplementos-app")
+@CrossOrigin(value = "http://localhost:4200")
 public class AdminController {
     private Logger logger = LoggerFactory.getLogger(AdminController.class);
 
